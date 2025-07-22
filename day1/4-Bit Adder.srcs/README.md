@@ -1,7 +1,9 @@
 # Day 1 _ 4-bit Adder Using Operators
 
 # Overview of what I learned
+- Modules, ports and basic verilog syntax.
 - Difference between `wire` and `reg`.
+- Vectors and scalars.
 - Writing a simple module using `assign`
 - Creating a testbench.
 - Running behavioral simulation in vivado.
