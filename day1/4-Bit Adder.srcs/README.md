@@ -11,3 +11,6 @@
 # Files included
 - `adder_4bit.v`: 4-bit adder module
 - `adder_4bit_tb.v`: Testbench to simulate it
+
+## Blog
+- [Comprehensive details](https://medium.com/@jacokirera20/building-a-4-bit-adder-in-verilog-using-xilinx-vivado-714927042c30)
